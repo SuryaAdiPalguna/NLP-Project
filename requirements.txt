@@ -1,3 +1,4 @@
 pandas==2.2.2
 nltk==3.9.1
 streamlit==1.35.0
+svgling==0.5.0
